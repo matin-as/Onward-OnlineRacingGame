@@ -1,0 +1,5 @@
+F:/unity projects/car game/.utmp/Debug/3m1l5z26/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/unity projects/car game/.utmp/Debug/3m1l5z26/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+F:/unity projects/car game/.utmp/Debug/3m1l5z26/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/unity projects/car game/.utmp/Debug/3m1l5z26/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+F:/unity projects/car game/.utmp/Debug/3m1l5z26/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

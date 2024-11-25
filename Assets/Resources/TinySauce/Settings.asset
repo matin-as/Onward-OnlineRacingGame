@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: 8b63feaae9693877a3cd255b96dc60e5
+  gameAnalyticsAndroidSecretKey: 6815f5dea273c8b5307b696bec9a0300960a698e
+  facebookAppId: 371943082129360
+  facebookClientToken: d103dbd5d855d270c4c9a44b5612a15b
+  adjustIOSToken: 
+  adjustAndroidToken: m4tzvnvmlzpc
+  EditorIdfa: 512e9c5f-970f-4c45-9674-3a05048ad7d4
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: We Studio
+  privacyPolicyURL: https://unity.com/legal/privacy-policy
+  developerContactEmail: mtasad2008@gmail.com
