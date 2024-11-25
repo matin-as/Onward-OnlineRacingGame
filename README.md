@@ -59,7 +59,7 @@ We welcome contributions! If you're interested in improving Onward, feel free to
 
 ## 📧 Contact
 For feedback, reach out to us at:
-- Email: [your_email@example.com](mailto:mtasad2008@gmail.com)
+- Email: [mtasad2008@gmail.com](mailto:mtasad2008@gmail.com)
 
 ---
 
